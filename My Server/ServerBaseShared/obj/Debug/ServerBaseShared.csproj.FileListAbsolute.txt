@@ -1,0 +1,4 @@
+E:\visual studio 2013\Projects\My Server\ServerBaseShared\bin\Debug\ServerBaseShared.dll
+E:\visual studio 2013\Projects\My Server\ServerBaseShared\bin\Debug\ServerBaseShared.pdb
+E:\visual studio 2013\Projects\My Server\ServerBaseShared\obj\Debug\ServerBaseShared.dll
+E:\visual studio 2013\Projects\My Server\ServerBaseShared\obj\Debug\ServerBaseShared.pdb
