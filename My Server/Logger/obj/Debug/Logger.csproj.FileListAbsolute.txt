@@ -1,5 +1,0 @@
-E:\visual studio 2013\Projects\My Server\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
-E:\visual studio 2013\Projects\My Server\Logger\bin\Debug\Logger.dll
-E:\visual studio 2013\Projects\My Server\Logger\bin\Debug\Logger.pdb
-E:\visual studio 2013\Projects\My Server\Logger\obj\Debug\Logger.dll
-E:\visual studio 2013\Projects\My Server\Logger\obj\Debug\Logger.pdb
